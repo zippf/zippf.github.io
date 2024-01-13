@@ -22,10 +22,11 @@ title: Zippf Blog
 email: sgbhat@skiff.com
 description: >- # this means to ignore newlines until "baseurl:"
   Best startup dev blog. Follow us in our development journey and learn new stuff!
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "https://zippf.github.io/" # the subpath of your site, e.g. /blog
+url: "/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: _gbhat_
 github_username:  zippf
+repository: zippf/zippf.github.io
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
